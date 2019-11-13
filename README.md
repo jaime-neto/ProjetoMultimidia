@@ -11,7 +11,7 @@ Para quem usa Windows:
 
 2 - Extraia o arquivo ProjetoMultimidia.zip
 
-3 - Entre na pasta criada e dê dois cliques no executável startServer e não feche o cmd, caso ele feche sozinho dê dois cliques no arquivo startServer2 e não feche o cmd
+3 - Entre na pasta criada e dê dois cliques no executável startServer e não feche o cmd, caso ele feche sozinho dê dois cliques no arquivo startServer2 e não feche o cmd pois o servidor ficará de pé para hospedar a página.
 
 4 - Abra o seu navegador (Google Chrome de preferência) e digite http://localhost:3000/
 
@@ -23,7 +23,7 @@ Para quem usa linux (ubuntu):
 
 3 - Abra uma janela do terminal na pasta criada após a extração 
 
-4 - E digite "npm install" e depois "node index.js" sem as aspas e nao feche a janela do terminal
+4 - E digite "npm install" e depois "node index.js" sem as aspas e nao feche a janela do terminal pois o servidor ficará de pé para hospedar a página.
 
 5 - Abra o seu navegador (Google Chrome de preferência) e digite http://localhost:3000/
 
