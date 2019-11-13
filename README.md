@@ -5,7 +5,7 @@ Criar uma rádio que permita executar e controlar audios/músicas. O tema da rá
 
 O projeto foi criado para rodar em um servidor local, o servidor foi criado em node.js, veja abaixo como prosseguir para executar a página WEB:
 
-Para quem usa Windowns:
+Para quem usa Windows:
 
 1 - Baixar o node na sua máquina através do link: https://nodejs.org/en/download/
 
