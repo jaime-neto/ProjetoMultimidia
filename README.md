@@ -23,7 +23,7 @@ Para quem usa linux (ubuntu):
 
 3 - Abra uma janela do terminal na pasta criada após a extração 
 
-4 - E digite "npm install" e depois "node index.js" sem as aspas e nao feche a janela do terminal pois o servidor ficará de pé para hospedar a página.
+4 - Digite "npm install" e depois "node index.js" sem as aspas e nao feche a janela do terminal pois o servidor ficará de pé para hospedar a página.
 
 5 - Abra o seu navegador (Google Chrome de preferência) e digite http://localhost:3000/
 
