@@ -1,5 +1,5 @@
 # ProjetoMultimidia
-Objetivo
+Objetivo:
 Criar uma rádio que permita executar e controlar audios/músicas. O tema da rádio criada foi Racionais MC's.
 
 
