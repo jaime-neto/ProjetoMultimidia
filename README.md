@@ -7,7 +7,7 @@ Para quem usa Windowns:
 
 2 - Extraia o arquivo ProjetoMultimidia.zip
 
-3 - Entre na pasta criada e dê dois cliques no executável startServer e não feche o cmd, caso ele feche sozinho dê dois cliques no arquivo startServer2.
+3 - Entre na pasta criada e dê dois cliques no executável startServer e não feche o cmd, caso ele feche sozinho dê dois cliques no arquivo startServer2 e não feche o cmd
 
 4 - Abra o seu navegador (Google Chrome de preferência) e digite http://localhost:3000/
 
