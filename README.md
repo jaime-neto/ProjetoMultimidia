@@ -2,6 +2,7 @@
 O projeto foi criado para rodar em um servidor local, o servidor foi criado em node.js, veja abaixo como prosseguir para executar a página WEB:
 
 Para quem usa Windowns:
+
 1 - Baixar o node na sua máquina através do link: https://nodejs.org/en/download/
 
 2 - Extraia o arquivo ProjetoMultimidia.zip
@@ -11,6 +12,7 @@ Para quem usa Windowns:
 4 - Abra o seu navegador (Google Chrome de preferência) e digite http://localhost:3000/
 
 Para quem usa linux (ubuntu):
+
 1 - Instale o node na sua máquina através do link: https://nodejs.org/en/download/
 
 2 - Extraia o arquivo ProjetoMultimidia.zip
