@@ -1,0 +1,45 @@
+body{
+    background: rgb(0, 0, 0);
+    color: white;
+}
+
+.logo{  
+    width:100%;
+    height:400px;
+    top:0%;
+    left:50%;
+}
+
+.perfil{
+    position: relative;
+    top: 90px;
+    left: 10%;
+}
+
+.imagem{
+    position: relative; 
+    width: 500px;
+    height: 500px;
+}
+
+.player{
+    position: absolute;
+    top: 85%;
+    left: 60%;
+}
+
+.musicas{
+    cursor: pointer;
+}
+
+.controles{
+    position: absolute;
+    top: 143%;
+    left: 55%;
+}
+
+.visuais{
+    position: absolute;
+    top: 131%;
+    left: 70%; 
+}
